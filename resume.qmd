@@ -5,7 +5,7 @@ title: Ethan Glenn CV
 
 [Contact Me](https://eglenn.dev/contact)
 
-## EDUCATION
+## Education
 
 **Bachelor of Science in Computer Science**        January 2023 - April 2026
 Brigham Young University - Idaho        Rexburg, ID
@@ -13,13 +13,13 @@ Brigham Young University - Idaho        Rexburg, ID
 * Emphasis in Machine Learning. Certificate in Full-Stack Web Development.
 * GPA: 3.96.
 
-## SKILLS
+## Skills
 
 * **Web Development:** TypeScript, Next.js., React, JavaScript, HTML, CSS/SCSS
 * **Data Analytics:** Python, R, SQL
 * **Cloud:** Firebase, Render, Vercel
 
-## EXPERIENCE
+## Experience
 
 **Team Lead & Web Developer**        July 2024 - Present
 Brigham Young University - Idaho        Rexburg, ID
@@ -41,7 +41,7 @@ Brigham Young University - Idaho        Rexburg, ID
 * Maintained a 3D printing maker lab designed to support over 1,200 students and faculty each month.
 * Taught quarterly 3D printing and programming workshops for students.
 
-## PROJECTS
+## Projects
 
 * 1st place winner of BYU-I-Hack 2024. Created a neighborhood watch app that won first place at the MLH sponsored hackathon.
 * Created a full-stack web app for managing 3D print requests from students at BYU-Idaho.
