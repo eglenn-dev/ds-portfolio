@@ -234,29 +234,29 @@
     "objectID": "resume.html#education",
     "href": "resume.html#education",
     "title": "Ethan Glenn CV",
-    "section": "EDUCATION",
-    "text": "EDUCATION\nBachelor of Science in Computer Science January 2023 - April 2026 Brigham Young University - Idaho Rexburg, ID\n\nEmphasis in Machine Learning. Certificate in Full-Stack Web Development.\nGPA: 3.96."
+    "section": "Education",
+    "text": "Education\nBachelor of Science in Computer Science January 2023 - April 2026 Brigham Young University - Idaho Rexburg, ID\n\nEmphasis in Machine Learning. Certificate in Full-Stack Web Development.\nGPA: 3.96."
   },
   {
     "objectID": "resume.html#skills",
     "href": "resume.html#skills",
     "title": "Ethan Glenn CV",
-    "section": "SKILLS",
-    "text": "SKILLS\n\nWeb Development: TypeScript, Next.js., React, JavaScript, HTML, CSS/SCSS\nData Analytics: Python, R, SQL\nCloud: Firebase, Render, Vercel"
+    "section": "Skills",
+    "text": "Skills\n\nWeb Development: TypeScript, Next.js., React, JavaScript, HTML, CSS/SCSS\nData Analytics: Python, R, SQL\nCloud: Firebase, Render, Vercel"
   },
   {
     "objectID": "resume.html#experience",
     "href": "resume.html#experience",
     "title": "Ethan Glenn CV",
-    "section": "EXPERIENCE",
-    "text": "EXPERIENCE\nTeam Lead & Web Developer July 2024 - Present Brigham Young University - Idaho Rexburg, ID\n\nCreated a full-stack web app in Next.js with TypeScript for managing 3D print requests from library patrons. Used a Firebase NoSQL database, and Render.com for hosting.\nLead developer for implementing new features and pages on library website.\nImplemented training solutions and documentation for library website to work with UI developers, University IT department for compliance, and library administration.\n\nApplied Calculus for Data Analytics Teaching Assistant April 2024 - Present Department of Mathematics at Brigham Young University - Idaho Rexburg, ID\n\nHeld weekly office hours to assist students with understanding and applying calculus concepts to weekly data analysis programming projects in R.\nOffered tutoring support to multiple class sections to help with calculus concepts and the R programming language.\n\nLab Technician & Front-End Developer June 2023 - July 2024 Brigham Young University - Idaho Rexburg, ID\n\nCollaborated on a team to remodel the University Library website by transitioning from Bootstrap to Vanilla JS, utilizing HTML, CSS, and JS, while also integrating third-party APIs. In doing so reducing Largest Contentful Paint by 32%.\nMaintained a 3D printing maker lab designed to support over 1,200 students and faculty each month.\nTaught quarterly 3D printing and programming workshops for students."
+    "section": "Experience",
+    "text": "Experience\nTeam Lead & Web Developer July 2024 - Present Brigham Young University - Idaho Rexburg, ID\n\nCreated a full-stack web app in Next.js with TypeScript for managing 3D print requests from library patrons. Used a Firebase NoSQL database, and Render.com for hosting.\nLead developer for implementing new features and pages on library website.\nImplemented training solutions and documentation for library website to work with UI developers, University IT department for compliance, and library administration.\n\nApplied Calculus for Data Analytics Teaching Assistant April 2024 - Present Department of Mathematics at Brigham Young University - Idaho Rexburg, ID\n\nHeld weekly office hours to assist students with understanding and applying calculus concepts to weekly data analysis programming projects in R.\nOffered tutoring support to multiple class sections to help with calculus concepts and the R programming language.\n\nLab Technician & Front-End Developer June 2023 - July 2024 Brigham Young University - Idaho Rexburg, ID\n\nCollaborated on a team to remodel the University Library website by transitioning from Bootstrap to Vanilla JS, utilizing HTML, CSS, and JS, while also integrating third-party APIs. In doing so reducing Largest Contentful Paint by 32%.\nMaintained a 3D printing maker lab designed to support over 1,200 students and faculty each month.\nTaught quarterly 3D printing and programming workshops for students."
   },
   {
     "objectID": "resume.html#projects",
     "href": "resume.html#projects",
     "title": "Ethan Glenn CV",
-    "section": "PROJECTS",
-    "text": "PROJECTS\n\n1st place winner of BYU-I-Hack 2024. Created a neighborhood watch app that won first place at the MLH sponsored hackathon.\nCreated a full-stack web app for managing 3D print requests from students at BYU-Idaho.\nUtilized natural language processing in Python spaCy library to find similarities and patterns in large prices of text.\nDeveloped a website to summarize articles and documents using generative artificial intelligence in Python, HTML and JavaScript."
+    "section": "Projects",
+    "text": "Projects\n\n1st place winner of BYU-I-Hack 2024. Created a neighborhood watch app that won first place at the MLH sponsored hackathon.\nCreated a full-stack web app for managing 3D print requests from students at BYU-Idaho.\nUtilized natural language processing in Python spaCy library to find similarities and patterns in large prices of text.\nDeveloped a website to summarize articles and documents using generative artificial intelligence in Python, HTML and JavaScript."
   },
   {
     "objectID": "exploration.html",

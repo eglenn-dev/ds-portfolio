@@ -1,1 +1,1 @@
-Sitemap: https://eglenn-dev.github.io/sitemap.xml
+Sitemap: https://eglenn-dev.github.io/ds-portfolio/sitemap.xml
