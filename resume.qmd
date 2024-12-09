@@ -1,89 +1,49 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ethan Glenn CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+[Contact Me](https://eglenn.dev/contact)
 
+## EDUCATION
 
-## Currently
+**Bachelor of Science in Computer Science**        January 2023 - April 2026
+Brigham Young University - Idaho        Rexburg, ID
 
-Standing on the shoulders of giants
+* Emphasis in Machine Learning. Certificate in Full-Stack Web Development.
+* GPA: 3.96.
 
-### Specialized in
+## SKILLS
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+* **Web Development:** TypeScript, Next.js., React, JavaScript, HTML, CSS/SCSS
+* **Data Analytics:** Python, R, SQL
+* **Cloud:** Firebase, Render, Vercel
 
+## EXPERIENCE
 
-### Research interests
+**Team Lead & Web Developer**        July 2024 - Present
+Brigham Young University - Idaho        Rexburg, ID
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+* Created a full-stack web app in Next.js with TypeScript for managing 3D print requests from library patrons. Used a Firebase NoSQL database, and Render.com for hosting.
+* Lead developer for implementing new features and pages on library website.
+* Implemented training solutions and documentation for library website to work with UI developers, University IT department for compliance, and library administration.
 
+**Applied Calculus for Data Analytics Teaching Assistant**        April 2024 - Present
+Department of Mathematics at Brigham Young University - Idaho        Rexburg, ID
 
-## Education
+* Held weekly office hours to assist students with understanding and applying calculus concepts to weekly data analysis programming projects in R.
+* Offered tutoring support to multiple class sections to help with calculus concepts and the R programming language.
 
-`1654-1660`
-__The King's School, Grantham.__
+**Lab Technician & Front-End Developer**        June 2023 - July 2024
+Brigham Young University - Idaho        Rexburg, ID
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+* Collaborated on a team to remodel the University Library website by transitioning from Bootstrap to Vanilla JS, utilizing HTML, CSS, and JS, while also integrating third-party APIs. In doing so reducing Largest Contentful Paint by 32%.
+* Maintained a 3D printing maker lab designed to support over 1,200 students and faculty each month.
+* Taught quarterly 3D printing and programming workshops for students.
 
-- Sizar
+## PROJECTS
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+* 1st place winner of BYU-I-Hack 2024. Created a neighborhood watch app that won first place at the MLH sponsored hackathon.
+* Created a full-stack web app for managing 3D print requests from students at BYU-Idaho.
+* Utilized natural language processing in Python spaCy library to find similarities and patterns in large prices of text.
+* Developed a website to summarize articles and documents using generative artificial intelligence in Python, HTML and JavaScript. 
